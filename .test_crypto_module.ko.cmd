@@ -1,1 +1,0 @@
-cmd_/home/falko/work/crypto-module/test_crypto_module.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.11.0-12-generic/scripts/module-common.lds --build-id  -o /home/falko/work/crypto-module/test_crypto_module.ko /home/falko/work/crypto-module/test_crypto_module.o /home/falko/work/crypto-module/test_crypto_module.mod.o
